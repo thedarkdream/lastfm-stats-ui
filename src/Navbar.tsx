@@ -22,6 +22,11 @@ function Navbar() {
                   Timeline
                 </NavLink>
               </li>
+              <li className="nav-item">
+                <NavLink className="nav-link" to="/tagtimeline">
+                  Genres
+                </NavLink>
+              </li>
             </ul>
           </div>
         </div>
